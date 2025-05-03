@@ -1,5 +1,5 @@
 <div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=gold-mouse&label=Profile%20views&color=0e75b6&style=flat" alt="gold-mouse" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=web3developer916&label=Profile%20views&color=0e75b6&style=flat" alt="web3developer916" />
 </div>
 <h1 align="center">Hi👋, I build <b>intelligent software</b> - ⚡fast, light, and sharp as a mouse. 🐭</h1>
 
@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=5000&pause=600&center=true&random=true&width=970&height=64&lines=AI+Powered+Platform+Development+-+Web+%26+Mobile+Full+Stack+Developer!" alt="Typing SVG" />
 </p>
 <p align="center">  
-    <img src="https://github-trophies.vercel.app/?username=gold-mouse&margin-h=10&margin-w=10&theme=algolia&title=MultiLanguage,LongTimeUser,Commits,Followers,Stars,NewUser" alt="gold-mouse" />
+    <img src="https://github-trophies.vercel.app/?username=web3developer916&margin-h=10&margin-w=10&theme=algolia&title=MultiLanguage,LongTimeUser,Commits,Followers,Stars,NewUser" alt="web3developer916" />
 </p>
 
 <h2 align="left" color="cornflowerblue">
@@ -140,11 +140,11 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gold-mouse&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@gold-mouse's github-readme-streak-stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=web3developer916&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@web3developer916's github-readme-streak-stats"/>
 </p>
 
 <p align="center">
-    <img  height="156" src="https://github-readme-stats.vercel.app/api?username=gold-mouse&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img  height="156" src="https://github-readme-stats.vercel.app/api?username=web3developer916&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
