@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=5000&pause=600&center=true&random=true&width=970&height=64&lines=AI+Powered+Platform+Development+-+Web+%26+Mobile+Full+Stack+Developer!" alt="Typing SVG" />
 </p>
 <p align="center">  
-    <img src="https://github-trophies.vercel.app/?username=web3developer916&margin-h=10&margin-w=10&theme=algolia&title=MultiLanguage,LongTimeUser,Commits,Followers,Stars,NewUser" alt="web3developer916" />
+    <img src="https://github-trophies.vercel.app/?username=web3developer916&margin-h=10&margin-w=10&theme=algolia" alt="web3developer916" />
 </p>
 
 <h2 align="left" color="cornflowerblue">
